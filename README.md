@@ -11,7 +11,7 @@ Collection of projects on financial risk and market trends using statistical and
 - Data-driven approach using Python and R  
 
 ## Tools & Methods 
-- Python, R, Pandas, NumPy, Matplotlib  
+- Python : yfinance, pandas, numpy, matplotlib, R  
 - Financial datasets and statistical methods  
 
 ## About  

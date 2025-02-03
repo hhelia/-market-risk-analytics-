@@ -13,30 +13,12 @@
 ### Conclusions 
 The market seems to reward patient, long-term investors who dont panic sell after a short term crash. Each one of them was a buying oportunity, but we have to stay viligent to the overevaluation risks. 
 
-
-
-## 2. Daily returns 
-![daily_returns_5years](https://github.com/user-attachments/assets/90b463fa-e2ed-4619-9424-ed33dd86e30b)
-*daily changes of stock prices*
-
-### Obversations
-**mimics the closing prices**, reminder : daily returns = (close_t - close_t-1) / close_t-1, so its only natural for it to follow the closing prices, since it exprims it in pourcenatge form.
-
-### Conclusions 
+## 2. Returns in %
+![retruns_in_%_1year](https://github.com/user-attachments/assets/e1301ebf-19d8-4ced-af43-06a474bb36e3)
 
 
 
 
-
-## 3. Closing vs Returns over 30 days 
-
-![retruns_vs_closing_30days](https://github.com/user-attachments/assets/43793a93-374b-4fb2-8d34-e709d6559575)
-
-
-
-
-
-
-## 4. 30 days volatility
+## 3. 30 days volatility
 
 ![30_days_volatility](https://github.com/user-attachments/assets/0dfec711-6888-4a6e-aeff-33dbcf909dd8)

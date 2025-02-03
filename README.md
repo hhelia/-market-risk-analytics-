@@ -2,7 +2,8 @@
 Risk analysis and financial modeling projects
 
  ![30_days_volatility](https://github.com/user-attachments/assets/fa53a9eb-64cd-42f9-922b-c7f073bc5ad2)
-Read **full conclusions & risk analysis** here:  👉 [Full Summary & Conclusions](SUMMARY-CONCLUSIONS.md) 
+Read **full conclusions & risk analysis** here:  
+👉[Full Summary & Conclusions](SUMMARY-CONCLUSIONS.md) 
 
 
 # Risk Analysis & Finance Lab  

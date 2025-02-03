@@ -1,5 +1,5 @@
 # Summary and key points
-*Understanding financial risk is essential for long-term prosperity of investors and institions. This project analyszes **price trends, retruns and market volatiliy**. Using python and statistical techniques, we identifed key points impacting financial decision-taking*
+*Understanding financial risk is essential for long-term prosperity of investors and institions. This project analyszes* **price trends, retruns and market volatiliy**. *Using python and statistical techniques, we identifed key points impacting financial decision-taking*
 
 
 

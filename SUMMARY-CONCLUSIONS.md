@@ -26,3 +26,16 @@ Again, short term trading was risky, with possible 10% losses in a single day, b
 ## 3. 30 days volatility
 
 ![30_days_volatility](https://github.com/user-attachments/assets/0dfec711-6888-4a6e-aeff-33dbcf909dd8)
+*The graph shows the rolling 30 days std deviation of daily returns.*
+
+### Obversations
+**Sharp volatility spike** in 2020, during the covid crash. Through 2021 volatiliy was still elavted, maybe due to speculations about recovery. Periodic spikes in 2022-2023, after 2023 fluctuations decrease, perhaps geopolitical tensions. 
+
+
+### Conclusions 
+A third time: market shocks are temporary. Historical data shows that markets are resilient and eventually stabilize over time. While significant day to day volatility seem overwhelming, its best to avoid panic selling and focus on long term growth.
+
+#General conclusions
+Markets show high volatility during crisis, and stabilizes over time. So long term startegies are to prioritize. Analyzing historical datas about volatility and returns can help improve investments decisions.
+
+Feel free to reach out (feedback/questions)!

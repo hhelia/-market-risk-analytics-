@@ -35,7 +35,7 @@ Again, short term trading was risky, with possible 10% losses in a single day, b
 ### Conclusions 
 A third time: market shocks are temporary. Historical data shows that markets are resilient and eventually stabilize over time. While significant day to day volatility seem overwhelming, its best to avoid panic selling and focus on long term growth.
 
-#General conclusions
+# General conclusions
 Markets show high volatility during crisis, and stabilizes over time. So long term startegies are to prioritize. Analyzing historical datas about volatility and returns can help improve investments decisions.
 
 Feel free to reach out (feedback/questions)!

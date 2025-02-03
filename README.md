@@ -20,3 +20,5 @@ A place to organize projects, test ideas, and build skills in finance and risk m
 
 
 ![close_price_5years](https://github.com/user-attachments/assets/cc592c26-34c5-4153-b10e-31e5d6138ed2)
+
+![text] (https://raw.githubusercontent.com/rhettoria/-market-risk-analytics-/refs/heads/main/graphs/close_price_5years.png)

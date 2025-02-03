@@ -3,8 +3,13 @@
 ## 1. Price trends
 ![Closing Price Over 5 Years](https://raw.githubusercontent.com/rhettoria/-market-risk-analytics-/main/graphs/close_price_5years.png)
 
-* 5 years of the closing price over the s&p index*
+*5 years of the closing price over the s&p index*
 ### Obversations
+
+
+
+
+
 
 
 

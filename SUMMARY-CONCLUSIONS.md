@@ -18,7 +18,15 @@ The market seems to reward patient, long-term investors who dont panic sell afte
 ## 2. Daily returns 
 
 
+
+
 ![daily_returns_5years](https://github.com/user-attachments/assets/90b463fa-e2ed-4619-9424-ed33dd86e30b)
+
+
+
+
+
+
 
 ## 3. Closing vs Returns over 30 days 
 

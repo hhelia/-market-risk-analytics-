@@ -16,7 +16,11 @@ The market seems to reward patient, long-term investors who dont panic sell afte
 ## 2. Returns in %
 ![retruns_in_%_1year](https://github.com/user-attachments/assets/e1301ebf-19d8-4ced-af43-06a474bb36e3)
 
+### Obversations
+**high fluctuations** of 5-10% early 2020, probably due to the covid crisis. The market stabilizes as the year progresses. The negative returns shows the panic selling days, the investors not previsionning that the very same stocks would double worth in the upcoming years. 
 
+### Conclusions 
+Again, short term trading was risky, with possible 10% losses in a single day, but long term strategies tend to in average make a decent positive gain. Market overall normalized over time, but volatiliy persisted (see upcoming graph).
 
 
 ## 3. 30 days volatility

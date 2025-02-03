@@ -2,7 +2,5 @@
 
 ![Closing Price Over 5 Years](https://raw.githubusercontent.com/rhettoria/-market-risk-analytics-/main/graphs/close_price_5years.png)
 
-![text]: https://raw.githubusercontent.com/rhettoria/-market-risk-analytics-/refs/heads/main/graphs/close_price_5years.png
-![close_price_5years](https://github.com/user-attachments/assets/cc592c26-34c5-4153-b10e-31e5d6138ed2)
 
-close_price_5years
+

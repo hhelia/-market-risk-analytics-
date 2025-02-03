@@ -1,4 +1,7 @@
 # Summary and key points
+*Understanding financial risk is essential for long-term prosperity of investors and institions. This project analyszes **price trends, retruns and market volatiliy**. Using python and statistical techniques, we identifed key points impacting financial decision-taking*
+
+
 
 ## 1. Price trends
 ![Closing Price Over 5 Years](https://raw.githubusercontent.com/rhettoria/-market-risk-analytics-/main/graphs/close_price_5years.png)

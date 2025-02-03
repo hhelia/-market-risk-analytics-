@@ -1,9 +1,9 @@
 # -market-risk-analytics-
 Risk analysis and financial modeling projects
 
-![close_price_5years](https://github.com/user-attachments/assets/cc592c26-34c5-4153-b10e-31e5d6138ed2)
-
-**quick example : ![30_days_volatility](https://github.com/user-attachments/assets/fa53a9eb-64cd-42f9-922b-c7f073bc5ad2)
+**quick example** : ![30_days_volatility](https://github.com/user-attachments/assets/fa53a9eb-64cd-42f9-922b-c7f073bc5ad2)
+Read **full conclusions & risk analysis** here:  
+👉 [Full Summary & Conclusions](SUMMARY-CONCLUSIONS.md) 
 
 
 # Risk Analysis & Finance Lab  
@@ -23,4 +23,4 @@ Collection of projects on financial risk and market trends using statistical and
 A place to organize projects, test ideas, and build skills in finance and risk management
 
 
-
+![close_price_5years](https://github.com/user-attachments/assets/cc592c26-34c5-4153-b10e-31e5d6138ed2)

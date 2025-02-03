@@ -15,7 +15,7 @@ The market seems to reward patient, long-term investors who dont panic sell afte
 
 
 
-
+## 2. Daily returns 
 
 
 

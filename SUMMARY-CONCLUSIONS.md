@@ -26,6 +26,8 @@ Again, short term trading was risky, with possible 10% losses in a single day, b
 ## 3. 30 days volatility
 
 ![30_days_volatility](https://github.com/user-attachments/assets/0dfec711-6888-4a6e-aeff-33dbcf909dd8)
+
+
 *The graph shows the rolling 30 days std deviation of daily returns.*
 
 ### Obversations
